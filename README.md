@@ -1,5 +1,1 @@
-test
-
-pobierz dane przed savem
-pobierz dane po save
-zapisz do logów 
+Aplikacja oparta o tutorial z dokumentacji Django oraz prosta back-end'owa aplikacja do zarządzania magazynem. 
